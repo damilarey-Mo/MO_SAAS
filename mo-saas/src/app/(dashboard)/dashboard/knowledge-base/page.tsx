@@ -1,3 +1,5 @@
+'use client'
+
 import { ArticleCard, ArticleProps } from '@/components/knowledge-base/ArticleCard'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/Card'
 import { Badge } from '@/components/ui/Badge'

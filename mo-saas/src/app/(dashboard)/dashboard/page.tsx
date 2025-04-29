@@ -1,3 +1,5 @@
+'use client'
+
 import { TicketList } from '@/components/tickets/TicketList'
 import { TicketFilters } from '@/components/tickets/TicketFilters'
 import { TicketCard, TicketPriority, TicketStatus } from '@/components/tickets/TicketCard'
