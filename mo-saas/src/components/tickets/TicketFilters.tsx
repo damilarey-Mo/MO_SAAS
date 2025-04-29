@@ -1,3 +1,5 @@
+'use client'
+
 import { TicketPriority, TicketStatus } from './TicketCard'
 import { useState } from 'react'
 import { Button } from '../ui/Button'
